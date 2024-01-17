@@ -1,6 +1,6 @@
 # Prework - *Code Path Intro*
 
-Submitted by: **Code Path Intro**
+Submitted by: **Justin Khant**
 
 **Code Path Intro** is an app that change background color randomly. 
 
