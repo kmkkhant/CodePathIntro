@@ -1,4 +1,4 @@
-# Prework - *Name of App Here*
+# Prework - *Code Path Intro*
 
 Submitted by: **Code Path Intro**
 
